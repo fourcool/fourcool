@@ -10,9 +10,13 @@
 </div>
 
 <div align="center">
+    <h2>🌐 Connect with Me</h2>
     <!-- Replace href with your links -->
-    <a href=https://www.linkedin.com/in/prakhar-gupta-441586153/>
+    Connect with me on linkedin to look at my Professional Profile
+   <br> <a href=https://www.linkedin.com/in/prakhar-gupta-441586153/>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    </a></br>
 </div>
+
+
 
