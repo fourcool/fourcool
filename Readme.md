@@ -6,7 +6,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a buddying Data Scientist specializing in Physics Informed Nueral Networks.<br>Thank You for visiting and giving your precious time to view my GitHub Profile. :smile: </br><br>My technical range is broad covering everything from 3D Cad Modelling to C++, Python, Fortan, Robotics and Data Analysis</p>
+    <p>I'm a buddying Data Scientist specializing in Physics Informed Neural Networks.<br>Thank You for visiting and giving your precious time to view my GitHub Profile. :smile: </br><br>My technical range is broad covering everything from 3D Cad Modelling to C++, Python, Fortan, Robotics and Data Analysis</p>
 </div>
 
 <div align="center">
